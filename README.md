@@ -1,1 +1,3 @@
-# Jove
+# Jove demo for SIGCSE submission
+
+
