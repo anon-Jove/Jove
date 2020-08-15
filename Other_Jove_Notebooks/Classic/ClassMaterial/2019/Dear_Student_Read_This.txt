@@ -3,7 +3,7 @@
 
 # Here is how you can get the Asg/Quiz material and also incorporate updates to them
 
-1. git clone https://github.com/ganeshutah/Jove.git [do it once]
+1. git clone https://github.com/anon-Jove/Jove.git [do it once]
 
 2. git pull [in above repo, thereafter - after doing "1" above once]
 

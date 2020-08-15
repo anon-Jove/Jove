@@ -11,7 +11,7 @@ Whether you have my book or not, you may kindly go in the chapter order of the d
 Try ACMDSP that has my ACM Distinguished Speaker Program material. It shows many advanced examples.
 Just run and watch.
 
-My ACM Distinguished Speaker material is here: https://speakers.acm.org/speakers/gopalakrishnan_11429
+My ACM Distinguished Speaker material is here: https://speakers.acm.org/speakers/lastname_11429
 
 Try these there:
 
